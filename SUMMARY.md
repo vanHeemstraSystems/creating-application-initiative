@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Computing - Initiative](README.md)
+* [Creating Application - Initiative](README.md)
